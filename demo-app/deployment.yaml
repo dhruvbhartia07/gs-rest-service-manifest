@@ -13,7 +13,7 @@ spec:
         app: demo-app
     spec: 
       containers: 
-      - image: dhruvbhartia07/demo-app:fa0c0d7eb6db5a3946471d61d92480f815efe62f
+      - image: dhruvbhartia07/demo-app:c170a3da2ea4ee4c03ea31b3f5b81eb393663a58
         name: demo-app
         ports: 
         - containerPort: 8080
